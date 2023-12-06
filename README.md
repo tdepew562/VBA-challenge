@@ -5,13 +5,13 @@ Stock Analysis
 This VBA script analyzes stock data in Excel worksheets.
 
 ## Table of Contents
-Introduction
-Features
-Usage
-Requirements
-Installation
-How to Run
-Acknowledgements
+Introduction,
+Features,
+Usage,
+Requirements,
+Installation,
+How to Run,
+Acknowledgements,
   
 ## Introduction
 
