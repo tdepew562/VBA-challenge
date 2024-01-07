@@ -1,6 +1,5 @@
-# VBA-challenge
 Stock Analysis
-# Stock Analysis VBA Project #2 Berkely Data Analytics
+# Stock Analysis
 
 This VBA script analyzes stock data in Excel worksheets.
 
